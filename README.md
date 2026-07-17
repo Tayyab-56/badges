@@ -1,2 +1,2 @@
 # badges
-how to get badges?
+how to get badges
