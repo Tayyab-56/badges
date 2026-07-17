@@ -1,3 +1,1 @@
 # badges
-mb
-,xc,m
